@@ -4,7 +4,7 @@ import {
   IPropertyPaneConfiguration,
   PropertyPaneTextField
 } from '@microsoft/sp-property-pane';
-import { escape } from '@microsoft/sp-lodash-subset';
+
 import { sp, Web } from "@pnp/sp";
 
 import styles from './MissingRequiredInfoWebPart.module.scss';
